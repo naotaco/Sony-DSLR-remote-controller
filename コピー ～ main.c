@@ -1,5 +1,3 @@
-/* LED switch using atmega88 designed by takefuji on july 10, 2008*/
-
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <avr/pgmspace.h>
